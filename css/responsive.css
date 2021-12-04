@@ -1,0 +1,44 @@
+.container{
+    width: 80%;
+}
+
+/* Header----------- */
+Header{
+
+}
+
+/* Application-------------- */
+/* Apps */
+#application{
+    flex-direction: column;
+    margin: 0px auto;
+}
+
+/* Leader Section */
+#leaders-aria{
+    width: 100%;
+    top: -20px;
+}
+.leader-box img{
+    width: 15%;
+}
+#apps{
+    width: 85%;
+    margin: auto;
+}
+
+/* Notice Board */
+#notice{
+    width: 100%;
+    margin-top: 74px;
+}
+.notice-content{
+    font-size: 1.2rem;
+}
+
+/* Footer */
+#footer-menu{
+    width: 100%;
+    flex-direction: column;
+    padding: 12px 0px;
+}
